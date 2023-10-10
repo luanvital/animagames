@@ -1,1 +1,2 @@
-# animagames
+# tecnotuchtuch
+Estudo de JavaScript.
